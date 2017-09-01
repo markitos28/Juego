@@ -1,0 +1,5 @@
+C:\Users\l0665320\Desktop\L0665320\SharpDevelopPortable\Data\SharpDevelop Projects\Ahorcado\Juego\obj\Debug\Juego.csprojResolveAssemblyReference.cache
+C:\Users\l0665320\Desktop\L0665320\SharpDevelopPortable\Data\SharpDevelop Projects\Ahorcado\Juego\bin\Debug\Juego.exe
+C:\Users\l0665320\Desktop\L0665320\SharpDevelopPortable\Data\SharpDevelop Projects\Ahorcado\Juego\bin\Debug\Juego.pdb
+C:\Users\l0665320\Desktop\L0665320\SharpDevelopPortable\Data\SharpDevelop Projects\Ahorcado\Juego\obj\Debug\Juego.exe
+C:\Users\l0665320\Desktop\L0665320\SharpDevelopPortable\Data\SharpDevelop Projects\Ahorcado\Juego\obj\Debug\Juego.pdb
